@@ -1,4 +1,4 @@
-### 👋 hi!
+### 👋 Hi There!
 
 Meet Oumar, a dedicated self-taught Python web developer with a passion for crafting robust and scalable web applications. Skilled in Flask, Django, JavaScript, HTML, and CSS, Oumar's journey reflects his commitment to mastering his craft through relentless self-study and hands-on practice.
 
