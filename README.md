@@ -1,4 +1,6 @@
-👋 Meet Oumar, a dedicated self-taught Python web developer with a passion for crafting robust and scalable web applications. Skilled in Flask, Django, JavaScript, HTML, and CSS, Oumar's journey reflects his commitment to mastering his craft through relentless self-study and hands-on practice.
+### 👋 hi!
+
+Meet Oumar, a dedicated self-taught Python web developer with a passion for crafting robust and scalable web applications. Skilled in Flask, Django, JavaScript, HTML, and CSS, Oumar's journey reflects his commitment to mastering his craft through relentless self-study and hands-on practice.
 
 In addition to web development, Oumar is an adept bug hunter with a focus on web security vulnerabilities. His analytical skills and strategic mindset are key assets in both coding and bug hunting, allowing him to identify patterns, predict security flaws, and execute well-informed vulnerability assessments.
 
