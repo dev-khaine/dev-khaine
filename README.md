@@ -1,6 +1,6 @@
 ### 👋 Hi There!
 
-Meet Oumar, a dedicated self-taught Python web developer with a passion for crafting robust and scalable web applications. Skilled in Flask, Django, JavaScript, HTML, and CSS, Oumar's journey reflects his commitment to mastering his craft through relentless self-study and hands-on practice.
+Meet Oumar, a dedicated self-taught web developer with a passion for crafting robust and scalable web applications. Skilled in Flask, Django, JavaScript, HTML, CSS, WordPress, and PHP, Oumar's journey reflects his commitment to mastering his craft through relentless self-study and hands-on practice.
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oumar-khaine) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Oumar5aine) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Oumar-Khaine ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@oumar-khaine) 
