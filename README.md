@@ -2,13 +2,6 @@
 
 Meet Oumar, a dedicated self-taught Python web developer with a passion for crafting robust and scalable web applications. Skilled in Flask, Django, JavaScript, HTML, and CSS, Oumar's journey reflects his commitment to mastering his craft through relentless self-study and hands-on practice.
 
-In addition to web development, Oumar is an adept bug hunter with a focus on web security vulnerabilities. His analytical skills and strategic mindset are key assets in both coding and bug hunting, allowing him to identify patterns, predict security flaws, and execute well-informed vulnerability assessments.
-
-Driven by a desire to excel, Oumar thrives on challenges, constantly seeking new opportunities to expand his knowledge and refine his skills. With a unique blend of creativity, technical expertise, and problem-solving ability, Oumar brings value to every project he undertakes.
-
-Eager to collaborate and make a meaningful impact through technology and bug hunting, Oumar is poised to contribute to innovative projects and make waves in the worlds of web development and finance.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Oumar Khaine ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oumar-khaine) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Oumar5aine) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Oumar-Khaine ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@oumar-khaine) 
 
