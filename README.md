@@ -6,4 +6,4 @@ Driven by a desire to excel, Oumar thrives on challenges, constantly seeking new
 
 Eager to collaborate and make a meaningful impact through technology and bug hunting, Oumar is poised to contribute to innovative projects and make waves in the worlds of web development and finance.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumarkhaine)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oumarkhaine&show_icons=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
