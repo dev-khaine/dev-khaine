@@ -1,6 +1,8 @@
 ### 👋 Hi There!
 
-Meet Oumar, a dedicated self-taught with a passion for python web development, web security as well as web technologies like Flask, Django, JavaScript, PHP, Wordpress, HTML and CSS Oumar’s journey reflects his commitment to mastering these fields through relentless self-study, hands-on labs, and practical experience. Whether building secure, scalable web applications or safeguarding digital environments, Oumar combines his expertise in development and security to create robust and resilient solutions.
+Meet Dev-Khaine, a dedicated brand driven by a passion for Python web development, web security, and advanced web technologies like Flask, Django, JavaScript, PHP, WordPress, HTML, and CSS.
+
+Dev-Khaine's journey reflects a commitment to mastering these fields through relentless self-learning, hands-on projects, and practical experience. Whether crafting secure, scalable web applications or safeguarding digital ecosystems, Dev-Khaine blends expertise in development and security to deliver robust and innovative solutions.
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oumar-khaine) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Oumar5aine) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dev-khaine ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@oumar-khaine) 
