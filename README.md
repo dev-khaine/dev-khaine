@@ -2,13 +2,7 @@
 <img width="820" height="312" alt="Facebook cover - 12000" src="https://github.com/user-attachments/assets/ab8b783b-11b4-47ab-ba4d-613e022de920" />
 
 
-
-
-### 👋 Hi There!
-
-Meet Dev-Khaine, a dedicated brand driven by a passion for Python web development, web security, and advanced web technologies like Flask, Django, JavaScript, PHP, WordPress, HTML, and CSS.
-
-Dev-Khaine's journey reflects a commitment to mastering these fields through relentless self-learning, hands-on projects, and practical experience. Whether crafting secure, scalable web applications or safeguarding digital ecosystems, Dev-Khaine blends expertise in development and security to deliver robust and innovative solutions.
+Tech enthusiast and lifelong learner passionate about software development, exploring new technologies, and building projects that make a difference. Always eager to learn, share, and contribute to the developer community.
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-khaine) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Oumar5aine) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dev-khaine ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dev-khaine) 
